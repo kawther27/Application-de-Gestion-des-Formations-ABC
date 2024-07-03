@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemandeFromation", "DemandeFromation.csproj", "{9E49BAA0-0752-40C9-A0EF-CB484091EE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E49BAA0-0752-40C9-A0EF-CB484091EE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E49BAA0-0752-40C9-A0EF-CB484091EE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E49BAA0-0752-40C9-A0EF-CB484091EE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E49BAA0-0752-40C9-A0EF-CB484091EE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A35FB83-45E7-40D3-B617-A977221B8290}
+	EndGlobalSection
+EndGlobal
